@@ -4,7 +4,7 @@
 
 ## 💫 About Me
 
-<img src="https://images.app.goo.gl/nwCsNHV3Byxt7Xpy6" style="height:50%;margin-bottom:30px" align="right"/>
+<img src="![115357600](https://github.com/user-attachments/assets/22c06bef-a630-4a54-8bc3-887ac552e7fa)" style="height:50%;margin-bottom:30px" align="right"/>
 <div style="width: 100%;display:flex;justify-content:space-between">
  <div style="width: 70%">
   <br/>
