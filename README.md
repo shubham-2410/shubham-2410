@@ -4,18 +4,17 @@
 
 ## 💫 About Me
 
-<img src="![115357600](https://github.com/user-attachments/assets/22c06bef-a630-4a54-8bc3-887ac552e7fa)" style="height:50%;margin-bottom:30px" align="right"/>
+<!--<img src="![115357600](https://github.com/user-attachments/assets/22c06bef-a630-4a54-8bc3-887ac552e7fa)" style="height:50%;margin-bottom:30px" align="right"/>-->
 <div style="width: 100%;display:flex;justify-content:space-between">
  <div style="width: 70%">
   <br/>
- 👋🏻 Hello stranger...! Welcome to my GitHub profile.<br>🧑🏻‍💻 I'm a full-stack developer who has developed numerous projects.<br>🏆 I'm the winner of several coding competitions.<br>👨‍💼 Currently studying B.E. in Computer Science & Engineering at D.Y. Patil College of Engineering, Akurdi.
+ 👋🏻 Hello stranger...! Welcome to my GitHub profile.<br>🧑🏻‍💻 I'm a full-stack, with a expertise in MERN Stack<br>👨‍💼 Currently studying B.E. in Computer Science & Engineering at D.Y. Patil College of Engineering, Akurdi.
  </div>
 </div>
 
-## About Me
+## 🌐 Connect with me:
 
 - 📍 Pune, Maharashtra, India
-- 🎓 B.E. - Computer Science & Engineering
 - 📧 Email: [phalkeshubham2003@gmail.com](mailto:phalkeshubham2003@gmail.com)
 - 📱 Phone: +91-7387618063
 - 💼 LinkedIn: [Shubham Phalke](https://www.linkedin.com/in/shubhamphalke2410/)
@@ -63,9 +62,6 @@
  <a href="https://leetcode.com/shubham2410/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shubham2410" height="40" width="40"/></a>
  <a href="https://www.codechef.com/users/shubham2410" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="shubham2410" height="40" width="40"/></a>
 </p>
-
-## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&size=40)](https://www.linkedin.com/in/shubhamphalke2410)
 
 ![Coding]([https://your-gif-url.com/coding.gif](https://www.google.com/imgres?q=Coding%20GIF%20for%20GitHub&imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F2131993%2Fscreenshots%2F4948736%2Fthoughtworks-gif_dribbble.gif&imgrefurl=https%3A%2F%2Fgithub.com%2Fokoliechykwuka%2Fokoliechykwuka&docid=k-mY1vNyeYuAxM&tbnid=PXLAloFJw---QM&vet=12ahUKEwj7jqjDiOCHAxUlxTgGHSpHDIEQM3oECDUQAA..i&w=800&h=600&hcb=2&ved=2ahUKEwj7jqjDiOCHAxUlxTgGHSpHDIEQM3oECDUQAA))
 
